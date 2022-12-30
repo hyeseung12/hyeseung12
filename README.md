@@ -24,7 +24,8 @@
 
 <h3>📃Sovled.ad Profile</h3>
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghyesil)](https://solved.ac/seunghyesil/)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghyesil)](https://solved.ac/seunghyesil/)
+  
 ![MsEmily1020's github stats](https://github-readme-stats.vercel.app/api?username=MsEmily1020&show_icons=true)
 
 <br>
