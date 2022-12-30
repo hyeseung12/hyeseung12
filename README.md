@@ -22,6 +22,6 @@ My hobbies are mainly drawing and reading webtoons.❤</h4>
 <h2>👩‍💻 My Github Status 👩‍💻</h2>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghyesil)](https://solved.ac/seunghyesil/)
- ![MsEmily1020's github stats](https://github-readme-stats.vercel.app/api?username=MsEmily1020&show_icons=true)
+ ![MsEmily1020's github stats](https://github-readme-stats.vercel.app/api?username=MsEmily1020&show_icons=true&card_width=400px)
 
 <br>
