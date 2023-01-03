@@ -1,9 +1,6 @@
-<h2>Hello Everyone!👋 
+<h3>Hello Everyone!👋 
 I am a student aspiring to become a backend developer.<br>
-My hobbies are mainly drawing and reading webtoons.❤</h2>
-<h3>🙍‍♀️ visitant 🙍‍♀️</h3>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMsEmily1020&count_bg=%23A4B8FE&title_bg=%23F2B5C8&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+My hobbies are mainly drawing and reading webtoons.❤</h3>
 
 <h2>📕what I have studied so far📕</h2>
 <h3>📚 Language 📚</h3>
