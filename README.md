@@ -18,7 +18,6 @@ My hobbies are mainly drawing and reading webtoons.❤</h3>
 
 <h2>👩‍💻 My Github Status 👩‍💻</h2>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghyesil)](https://solved.ac/seunghyesil/)
-![MsEmily1020's GitHub stats](https://github-readme-stats.vercel.app/api?username=MsEmily1020&show_icons=true)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghyesil)](https://solved.ac/seunghyesil/)![MsEmily1020's GitHub stats](https://github-readme-stats.vercel.app/api?username=MsEmily1020&show_icons=true)
 
 <br>
