@@ -7,7 +7,7 @@ My hobbies are mainly drawing and reading webtoons.❤</h3>
 
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)](https://github.com/MsEmily1020) [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)](https://github.com/MsEmily1020) [![Html5](https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/hyeseung1020) [![CSS3](https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white)](https://github.com/MsEmily1020) [![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/MsEmily1020)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MsEmily1020&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MsEmily1020&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>📋 Tool 📋</h3>
 
@@ -18,6 +18,6 @@ My hobbies are mainly drawing and reading webtoons.❤</h3>
 
 <h2>👩‍💻 My Github Status 👩‍💻</h2>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghyesil)](https://solved.ac/seunghyesil/)![MsEmily1020's GitHub stats](https://github-readme-stats.vercel.app/api?username=MsEmily1020&show_icons=true)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghyesil)](https://solved.ac/seunghyesil/)![MsEmily1020's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MsEmily1020&show_icons=true)
 
 <br>
