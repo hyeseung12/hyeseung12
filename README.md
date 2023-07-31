@@ -1,9 +1,8 @@
 ## Hi, I am Hyeseung 👋
 ### About me ❤
 
-- 💬 I am a student aspiring to become a backend developer. 
-- 👁‍🗨 My hobbies are mainly drawing and reading webtoons.
-
+- 💬 I am a student aspiring to become a backend developer.
+  
 ### Language ✒ 
 
 <code><img height="35" src="https://skills.thijs.gg/icons?i=java&theme=light"></code>
