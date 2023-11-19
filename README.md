@@ -2,13 +2,10 @@
 
   <div align="center">
     
-  ### 🐣 Hi, I'm Hyeseung 🐥 
-  
-  [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=seunghyesil)](https://solved.ac/seunghyesil)
- 
+  # 👋 Hi, I'm Hyeseung👋
 
-  ---
-  
+  <br>
+
   <code><img height="35" src="https://skills.thijs.gg/icons?i=java&theme=light"></code>
   <code><img height="35" src="https://skills.thijs.gg/icons?i=spring&theme=light"></code>
   <code><img height="35" src="https://skills.thijs.gg/icons?i=kotlin&theme=light"></code>
