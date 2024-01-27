@@ -7,9 +7,8 @@
   <br>
 
   <code><img height="35" src="https://skills.thijs.gg/icons?i=java&theme=light"></code>
-  <code><img height="35" src="https://skills.thijs.gg/icons?i=spring&theme=light"></code>
   <code><img height="35" src="https://skills.thijs.gg/icons?i=kotlin&theme=light"></code>
-  <code><img height="35" src="https://skills.thijs.gg/icons?i=nodejs&theme=light"></code>
+  <code><img height="35" src="https://skills.thijs.gg/icons?i=spring&theme=light"></code>
   <code><img height="35" src="https://skills.thijs.gg/icons?i=mysql&theme=light"></code>
   <code><img height="35" src="https://skills.thijs.gg/icons?i=react&theme=light"></code>
   
