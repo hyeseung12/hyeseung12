@@ -28,7 +28,7 @@
     {
       name: "김혜승",
       school: "미림마이스터고",
-      github: "https://github.com/MsEmily1020",
+      github: "https://github.com/hyeseung12",
       email: "peace10200khs@gmail.com"
     }
   ]
