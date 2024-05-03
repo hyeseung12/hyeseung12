@@ -2,7 +2,7 @@
 
   <div align="center">
     
-  # 👋 Hi, I'm Hyeseung👋
+  # 👋 Hi, I'm [Hyeseung](https://foregoing-session-2ae.notion.site/5397fa3d785f4c15b64216d389e9754e?pvs=4)👋
 
   <br>
 
