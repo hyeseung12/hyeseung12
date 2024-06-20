@@ -35,15 +35,4 @@
 
 <br>
 <br>
-
-<div align="center">
-
-  | 제목 | 기간 | 참여<br>인원 | 한 줄 <br> 요약 | 풀 리퀘스트 수 <br> (My/전체) | 역할 | 링크 |
-  | :--------: | :-----: | :---------: | :-------: | :-------: | :-------: | :---------: |
-  | Matie | 2024.01.08 ~ 2024.05.05 | Front 1 Back 1 | ESG 챌린지로 포인트를 모아 <br> 환경 제품을 구매하는 서비스 | 106/106 | Back | [링크](https://github.com/2024-Australia-Ost/Matie-Backend) |
-  | TripCord | 2024.02.01 ~ ing | Front 5 Back 3 | 여행의 기억을 기록하는 서비스 | 1/5 | Back | [링크](https://github.com/TripCord/TripCord_backend) |
-  | Cote'Is | 2023.06.04 ~ 2023.12.12 | Front 1 Back 1 | 간편한 코딩테스트 포스팅 블로그 서비스 | 45/59 | Back | [링크](https://github.com/mini-mentor/Cote_Is_Backend) |
-
-
-</div>
 </div>
