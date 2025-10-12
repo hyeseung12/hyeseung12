@@ -5,7 +5,7 @@
   <code><img height="45" src="https://skillicons.dev/icons?i=java&theme=light"></code>
   <code><img height="45" src="https://skillicons.dev/icons?i=kotlin&theme=light"></code>
   <code><img height="45" src="https://skillicons.dev/icons?i=spring&theme=light"></code>
-  <code><img height="45" src="https://skillicons.dev/icons?i=mysql&theme=light"></code>
+  <code><img height="45" src="https://skillicons.dev/icons?i=kafka&theme=light"></code>
   <code><img height="45" src="https://skillicons.dev/icons?i=redis&theme=light"></code>
 
   
